@@ -1,4 +1,4 @@
-# Trade Analyzer
+# NYSE TAQ Trade Analyzer
 
 A powerful tool for analyzing trade data using Large Language Models (LLMs). This tool supports reading trade data from both CSV and Parquet files, with features for sampling, filtering, and detailed analysis.
 
